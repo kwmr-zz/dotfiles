@@ -1,7 +1,8 @@
 PATH=$PATH:$HOME/.rvm/bin # Add RVM to PATH for scripting
 export PATH=$HOME/.nodebrew/current/bin:$PATH
+export PATH=/usr/local/bin:/usr/local/share/python:$PATH
 
-# 少し凝った zshrc
+#少し凝った zshrc
  
 ########################################
 # 環境変数
